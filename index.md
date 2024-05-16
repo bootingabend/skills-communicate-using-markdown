@@ -1,3 +1,3 @@
-#<h1>Practice using not-html</h1>
+# Practice using not-html
 
 # This is a practice commit message
